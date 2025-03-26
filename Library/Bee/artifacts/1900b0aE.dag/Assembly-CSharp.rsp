@@ -482,6 +482,7 @@
 "Assets/Samples/Cinemachine/3.1.3/Shared Assets/Scripts/WrapAround.cs"
 "Assets/scripts/BackgroundFollow.cs"
 "Assets/scripts/Bala.cs"
+"Assets/scripts/Bullet.cs"
 "Assets/scripts/characterAnimation.cs"
 "Assets/scripts/Disparo.cs"
 "Assets/scripts/GameManager.cs"

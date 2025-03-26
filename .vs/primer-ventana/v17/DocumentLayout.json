@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Esdras\\primer-ventana\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5A8A99B-E16E-91C5-C1FB-36214EC103D1}|Assembly-CSharp.csproj|c:\\users\\esdras\\primer-ventana\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A8A99B-E16E-91C5-C1FB-36214EC103D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5A8A99B-E16E-91C5-C1FB-36214EC103D1}|Assembly-CSharp.csproj|c:\\users\\esdras\\primer-ventana\\assets\\scripts\\disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A8A99B-E16E-91C5-C1FB-36214EC103D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,28 +78,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\scripts\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:53:59.274Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Disparo.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\Disparo.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Disparo.cs",
               "ToolTip": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\Disparo.cs",
               "RelativeToolTip": "Assets\\scripts\\Disparo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T19:00:20.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bala.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\Bala.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Bala.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BackgroundFollow.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\BackgroundFollow.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\BackgroundFollow.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Parallax.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\Parallax.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\Parallax.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SceneCHanger.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\SceneCHanger.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\SceneCHanger.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GameRestart.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\GameRestart.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\GameRestart.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerMovent.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\PlayerMovent.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PlayerMovent.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FloorTextureGenerator.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\FloorTextureGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\FloorTextureGenerator.cs",
@@ -191,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PlayerCollision.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\PlayerCollision.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PlayerCollision.cs",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "characterAnimations.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\characterAnimations.cs",
               "RelativeDocumentMoniker": "Assets\\characterAnimations.cs",
@@ -215,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "characterAnimation.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\characterAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\characterAnimation.cs",
@@ -227,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DragSprite.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\DragSprite.cs",
               "RelativeDocumentMoniker": "Assets\\DragSprite.cs",
@@ -239,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DragSprite.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\DragSprite.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\DragSprite.cs",
@@ -250,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "NewEmptyCSharpScript.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\NewEmptyCSharpScript.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\NewEmptyCSharpScript.cs",
@@ -261,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "canvas-2.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\primer-ventana\\Assets\\scripts\\canvas-2.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\canvas-2.cs",
